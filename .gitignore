@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest
+.pytest_cache/
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Selenium screenshots
+screenshots/
+
+# OS files
+.DS_Store
+Thumbs.db
